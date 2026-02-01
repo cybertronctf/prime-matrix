@@ -1,1 +1,1 @@
-print("prime-matrix INSERT")
+print("prime-matrix UPDATE")
